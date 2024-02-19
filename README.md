@@ -24,7 +24,7 @@ Short scorpion antimicrobial peptides (ssAMPs) and their main physicochemical pr
     <th><i>Ps. aeruginosa <br> Serratia marcescens <br> S. aureus <br> C. tropicalis</i></th>
     <th>PE, PG, CL (Ps. a) <br> PE, PG (S.m.) <br> PG, LPG, CL (S.a.) <br> PC, PE, PI, PS, PA (C.t.)</th>
     <th><12 (1.56−6.25 mM)</th>
-    <th>10.1016/j.ejmech.2016.11.040</th>
+    <th><a href="https://www.sciencedirect.com/science/article/abs/pii/S0223523416309795?via%3Dihub">10.1016/j.ejmech.2016.11.040</a></th>
   </tr>
   <tr>
     <th>Stigmurin <br> (17 aa) </th>
