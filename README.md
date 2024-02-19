@@ -80,7 +80,7 @@ Short scorpion antimicrobial peptides (ssAMPs) and their main physicochemical pr
     <th>18 (3 mM) <br> 83 (12.5 mM) <br> 98 (20 mM)</th>
   </tr>
   <tr>
-    <th>Im5 (25 aa) </th>
+    <th>Im5 <br> (25 aa) </th>
     <th>162</th>
     <th>8.07</th>
     <th>1.72 E4</th>
