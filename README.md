@@ -36,7 +36,7 @@ Short scorpion antimicrobial peptides (ssAMPs) and their main physicochemical pr
     <th><i>S. aureus <br> S. epidermidis <br> C. albicans</i></th>
     <th>PG, LPG, CL (S. a) <br> PC, PE, PI, PS (C.a.) </th>
     <th>7 (1.1 mM) <br> 9 (17.45 mM) <br> 21 (139.5) </th>
-    <th>REF</th>
+    <th><a href="https://www.mdpi.com/2072-6651/10/4/161" target="_blank">10.3390/toxins10040161</a> <br> <a href="https://portlandpress.com/biochemj/article-abstract/119/5/861/6787/Effect-of-streptomycin-on-lipid-composition-with?redirectedFrom=fulltext" target="_blank">10.1042/bj1190861</a> <br> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1438422114001751?via%3Dihub" target="_blank">10.1016/j.ijmm.2014.12.016</a> <br> <a href="https://www.sciencedirect.com/science/article/pii/S0005273620303254?via%3Dihub"target="_blank">10.1016/j.bbamem.2020.183482</a></th>
   </tr>
   <tr>
     <th>TsAP-2 <br> (17 aa) </th>
