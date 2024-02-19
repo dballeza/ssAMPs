@@ -21,7 +21,7 @@ Short scorpion antimicrobial peptides (ssAMPs) and their main physicochemical pr
     <th>1.60</th>
     <th>0.78 (Ps.a.) <br> 1.56 (S.m.) <br> 3.12 (S.a.) <br> 6.25 (C.t)</th>
     <th><i>Ps. aeruginosa <br> Serratia marcescens <br> S. aureus <br> C. tropicalis</i></th>
-    <th>PE, PG, CL (Ps. a) <br> PE, PG (S.m.) <br> PG, LPG, CL (S.a.) <br> PC, PE, PI, PS, PAb (C.t.)</th>
+    <th>PE, PG, CL (Ps. a) <br> PE, PG (S.m.) <br> PG, LPG, CL (S.a.) <br> PC, PE, PI, PS, PA (C.t.)</th>
     <th><12 (1.56−6.25 mM)</th>
   </tr>
   <tr>
@@ -69,26 +69,26 @@ Short scorpion antimicrobial peptides (ssAMPs) and their main physicochemical pr
     <th>8 (12.5 mM) <br> 27 (25 mM) <br> 45 (50 mM)</th>
   </tr>
   <tr>
-    <th>Pin2 (24 aa) </th>
+    <th>Pin2 <br> (24 aa) </th>
     <th>345</th>
     <th>7.41</th>
     <th>1.79 E4</th>
-    <th>2.127</th>
+    <th>2.13</th>
     <th>18.8 (L.m.) <br> 18.8 (E.c.) <br> 22-33 (M.t.) <br> 37.5 (S.a.)</th>
     <th><i>Listeria monocytogenes <br> E. coli <br> M. tuberculosis <br> S. aureus</i></th>
-    <th>CL, PG, PI (L.m.) <br> PE, PG, CL (M.t.) <br> PImannosides, CL, PE (M.t.) <br> PG, LPG, CL (S.a.)</th>
+    <th>CL, PG, PI (L.m.) <br> PE, PG, CL (M.t.) <br> PI-mannosides, CL, PE (M.t.) <br> PG, LPG, CL (S.a.)</th>
     <th>18 (3 mM) <br> 83 (12.5 mM) <br> 98 (20 mM)</th>
   </tr>
   <tr>
-    <th>Stigmurin NH2 (17 aa) </th>
-    <th>168</th>
-    <th>7.14</th>
-    <th>8.34 E3</th>
-    <th>1.602</th>
-    <th>0.78 (Ps.a.) <br> 1.56 (S.m.) <br> 3.12 (S.a.) <br> 6.25 (C.t)</th>
-    <th><i>Ps. aeruginosa <br> Serratia marcescens <br> S. aureus <br> Candida tropicalis</i></th>
-    <th>PE, PG, CL (Ps. a) <br> PE, PG (S.m.) <br> PG, LPG, CL (S.a.) <br> PC, PE, PI, PS, PAb (C.t.)</th>
-    <th><12 (1.56−6.25 mM)</th>
+    <th>Im5 (25 aa) </th>
+    <th>162</th>
+    <th>8.07</th>
+    <th>1.72 E4</th>
+    <th>2.18</th>
+    <th>0.9 (A.b.)</th>
+    <th><i>A. baumannii</i></th>
+    <th>PE, CL, PG (A.b.)</th>
+    <th>18 (6.25 mM) <br> 53 (12.5 mM) <br> 94 (25 mM) <br> 100 (50 mM)</th>
   </tr>
 </table>
 
