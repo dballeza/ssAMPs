@@ -60,7 +60,7 @@ Short scorpion antimicrobial peptides (ssAMPs) and their main physicochemical pr
     <th><i>S. aureus</i></th>
     <th>PG, LPG, CL (S.a.) <br></th>
     <th>7 (140 mM)</th>
-    <th>REF</th>
+    <th><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222438" target="_blank">10.1371/journal.pone.0222438</a> <br> <a href="https://review.frontiersin.org/review/1371147/16/936512/#tab/History" target="_blank">Submitted</a> <br> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1438422114001751?via%3Dihub">10.1016/j.ijmm.2014.12.016</a> </th>
   </tr>
   <tr>
     <th>Ctriporin <br> (19 aa) </th>
