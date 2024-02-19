@@ -72,7 +72,7 @@ Short scorpion antimicrobial peptides (ssAMPs) and their main physicochemical pr
     <th><i>A. baumannii <br> S. aureus</i></th>
     <th>PE, CL, PG (A.b.) <br> PG, LPG, CL (S.a.) </th>
     <th>8 (12.5 mM) <br> 27 (25 mM) <br> 45 (50 mM)</th>
-    <th>REF</th>
+    <th><a href="https://www.sciencedirect.com/science/article/abs/pii/S1438422114001751?via%3Dihub" target="_blank">10.1016/j.ijmm.2014.12.016</a> <br> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0882401021002321?via%3Dihub" target="_blank">10.1016/j.micpath.2021.104960</a> <br> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8147793/">10.3390/antibiotics10050528</a> </th>
   </tr>
   <tr>
     <th>Pin2 <br> (24 aa) </th>
