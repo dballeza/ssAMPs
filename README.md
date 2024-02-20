@@ -84,7 +84,7 @@ Short scorpion antimicrobial peptides (ssAMPs) and their main physicochemical pr
     <th><i>Listeria monocytogenes <br> E. coli <br> M. tuberculosis <br> S. aureus</i></th>
     <th>CL, PG, PI (L.m.) <br> PE, PG, CL (M.t.) <br> PI-mannosides, CL, PE (M.t.) <br> PG, LPG, CL (S.a.)</th>
     <th>18 (3 mM) <br> 83 (12.5 mM) <br> 98 (20 mM)</th>
-    <th>REF</th>
+    <th><a href="https://onlinelibrary.wiley.com/doi/abs/10.1038/icb.1982.58" target="_blank">10.1038/icb.1982.58</a> <br> <a href="https://febs.onlinelibrary.wiley.com/doi/abs/10.1016/0014-5793%2885%2981348-X?sid=nlm%3Apubmed" target="_blank">10.1016/0014-5793(85)81348-x</a> <br> <a href="https://www.sciencedirect.com/science/article/pii/S000527360300261X">10.1016/j.bbamem.2003.08.010</a> <br> <a href="https://ami-journals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1472-765x.2010.02995.x" target="_blank">10.1111/j.1472-765X.2010.02995.x</a> <br> <a href="https://link.springer.com/article/10.1007/s00726-009-0449-y" target="_blank">10.1007/s00726-009-0449-y</a> <br> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1438422114001751?via%3Dihub">10.1016/j.ijmm.2014.12.016</a> </th>
   </tr>
   <tr>
     <th>Im5 <br> (25 aa) </th>
